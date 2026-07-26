@@ -1,10 +1,10 @@
-import ReviewSection from "./components/ReviewSection";
+import BundleSteps from "@/components/BundleSteps";
+import ReviewSection from "@/components/ReviewSection";
 
 function App() {
   return (
-    <main className="gap-7 my-12 flex items-center justify-center ">
-      <section className="min-w-3xl">Left</section>
-
+    <main className="gap-7 my-12 px-5 flex xl:flex-row flex-col justify-center ">
+      <BundleSteps />
       <ReviewSection />
     </main>
   );

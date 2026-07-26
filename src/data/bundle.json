@@ -1,0 +1,187 @@
+{
+  "steps": [
+    {
+      "id": "cameras",
+      "title": "Choose your cameras",
+      "order": 1,
+      "products": [
+        {
+          "id": "wyze-cam-v4",
+          "title": "Wyze Cam v4",
+          "description": "The clearest Wyze Cam ever made.",
+          "badge": {
+            "text": "Save 22%"
+          },
+          "image": "/src/assets/images/cameras/Wyze_Cam_V4.png",
+          "learnMore": "#",
+          "compareAtPrice": 35.98,
+          "price": 27.98,
+          "variants": [
+            {
+              "id": "white",
+              "label": "White",
+              "thumbnail": "/src/assets/images/cameras/variants/white_v4.png"
+            },
+            {
+              "id": "grey",
+              "label": "Grey",
+              "thumbnail": "/src/assets/images/cameras/variants/grey_v4.png"
+            },
+            {
+              "id": "black",
+              "label": "Black",
+              "thumbnail": "/src/assets/images/cameras/variants/black_v4.png"
+            }
+          ]
+        },
+        {
+          "id": "wyze-cam-pan-v3",
+          "title": "Wyze Cam Pan v3",
+          "description": "360° pan and 180° tilt security camera.",
+          "badge": {
+            "text": "Save 12%"
+          },
+          "learnMore": "#",
+          "price": 34.98,
+          "compareAtPrice": 39.98,
+          "image": "/src/assets/images/cameras/Wyze_Cam_Pan_v3.png",
+          "variants": [
+            {
+              "id": "white",
+              "label": "White",
+              "thumbnail": "/src/assets/images/cameras/variants/white_v3.png"
+            },
+            {
+              "id": "black",
+              "label": "Black",
+              "thumbnail": "/src/assets/images/cameras/variants/black_v3.png"
+            }
+          ]
+        },
+        {
+          "id": "wyze-cam-floodlight-v2",
+          "title": "Wyze Cam Floodlight v2",
+          "description": "2K floodlight camera with a 160° wide-angle view for your garage.",
+          "badge": {
+            "text": "Save 22%"
+          },
+          "learnMore": "#",
+          "price": 69.98,
+          "compareAtPrice": 89.98,
+          "image": "/src/assets/images/cameras/Wyze_Cam_Floodlight_v2.png",
+          "variants": [
+            {
+              "id": "white",
+              "label": "White",
+              "thumbnail": "/src/assets/images/cameras/variants/white_v2.png"
+            },
+            {
+              "id": "black",
+              "label": "Black",
+              "thumbnail": "/src/assets/images/cameras/variants/black_v2.png"
+            }
+          ]
+        },
+        {
+          "id": "wyze-duo-cam-doorbell",
+          "title": "Wyze Duo Cam Doorbell",
+          "description": "Two cameras. Two views. Double the porch protection.",
+          "price": 69.98,
+          "image": "/src/assets/images/cameras/Wyze_Duo_Cam_Doorbell.png"
+        },
+        {
+          "id": "wyze-battery-cam-pro",
+          "title": "Wyze Battery Cam Pro",
+          "description": "Protect anywhere. See everything in 2.5K HDR. No power outlet or electrician needed.",
+          "learnMore": "#",
+          "price": 89.98,
+          "image": "/src/assets/images/cameras/Wyze_Battery_Cam_Pro.png",
+          "variants": [
+            {
+              "id": "white",
+              "label": "White",
+              "thumbnail": "/src/assets/images/cameras/variants/pro_white.png"
+            },
+            {
+              "id": "black",
+              "label": "Black",
+              "thumbnail": "/src/assets/images/cameras/variants/pro_black.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "plan",
+      "title": "Choose your plan",
+      "order": 2,
+      "products": [
+        {
+          "id": "cam-unlimited",
+          "title": "Cam Unlimited",
+          "description": "Unlimited cloud recording and smart alerts for all your cameras.",
+          "image": "/src/assets/images/plans/cam-unlimited.webp",
+          "badge": {
+            "text": "Most Popular"
+          },
+          "price": "24.99 / mo",
+          "compareAtPrice": "34.99 / mo"
+        },
+        {
+          "id": "smart-home-plan",
+          "title": "Smart Home Add-On",
+          "description": "Extend your coverage to smart automation features.",
+          "image": "/src/assets/images/plans/smart-home.webp",
+          "price": 14.99
+        }
+      ]
+    },
+    {
+      "id": "sensor",
+      "title": "Choose your sensors",
+      "order": 3,
+      "products": [
+        {
+          "id": "wyze-sense-motion-sensor",
+          "title": "Wyze Sense Motion Sensor",
+          "description": "Detect human movement up to 25 feet within a 120° field of view and integrate with Wyze smart home systems for security and automation.",
+          "image": "/src/assets/images/sensors/Wyze_Sense_Motion_Sensor.webp",
+          "price": 12.99
+        },
+        {
+          "id": "wyze-sense-hub",
+          "title": "Wyze Sense Hub (Required)",
+          "description": "Central device required for certain Wyze Sense sensors, such as motion sensors and contact sensors.",
+          "image": "/src/assets/images/sensors/Wyze_Sense_Hub.webp",
+          "price": 0,
+          "compareAtPrice": 19.99
+        }
+      ]
+    },
+    {
+      "id": "accessories",
+      "title": "Add extra protection",
+      "order": 4,
+      "products": [
+        {
+          "id": "wyze-microSD-card",
+          "title": "Wyze MicroSD Card (256GB)",
+          "description": "Fully compatible with modern Wyze cameras and is ideal for 24/7 continuous recording, timed-lapse videos, and event-based storage",
+          "image": "/src/assets/images/accessories/Wyze_MicroSD_Card.webp",
+          "price": 29.99
+        },
+        {
+          "id": "headphone",
+          "title": "Headphone Pro",
+          "description": "The best headphone for gaming, calling, and noice cancellation.",
+          "image": "/src/assets/images/accessories/headphone.webp",
+          "price": 9.99
+        }
+      ]
+    }
+  ],
+  "shipping": 0,
+  "compareAtShipping": 15,
+  "shippingImage": "/src/assets/images/fast-shipping .png",
+  "financing": "As low as $19.19/month"
+}
