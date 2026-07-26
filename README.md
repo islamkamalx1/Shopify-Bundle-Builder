@@ -1,5 +1,7 @@
 # Bundle Builder
 
+**Live demo:** [Bundle Builder](https://shopify-bundle-builder.vercel.app/)
+
 A multi-step security-system bundle builder: a 4-step accordion (cameras → plan → sensors → accessories) with a live review panel that tracks selections, variants, quantities, and pricing in real time.
 
 ## Tech stack
