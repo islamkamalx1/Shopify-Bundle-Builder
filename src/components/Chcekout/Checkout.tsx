@@ -1,4 +1,4 @@
-import satisfactionBadge from "@/assets/images/satisfaction-badge.png";
+import satisfactionBadge from "/images/satisfaction-badge.png";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { useMemo, useState } from "react";
